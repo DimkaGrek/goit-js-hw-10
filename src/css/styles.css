@@ -1,5 +1,11 @@
 .breed-select {
   width: 25%;
+  font-size: 20px;
+  padding: 10px;
+  max-height: 500px;
+}
+.ss-list {
+  height: 500px;
 }
 .cat-info {
   display: flex;
